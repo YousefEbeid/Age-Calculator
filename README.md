@@ -8,6 +8,10 @@ A simple web application to calculate age based on the input date of birth.
 - Validates input dates
 - Displays age in years, months, and days
 
+## Live Demo
+
+Check out the live demo [here](https://yousefebeid.github.io/Age-Calculator/).
+
 ## Usage
 
 1. Enter your date of birth in the provided input fields.
